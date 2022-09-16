@@ -1,5 +1,5 @@
 # Midas-Soft-Assignment
- Midas Soft Assignment
+ Midas Soft Assignment<br>
 ขอ้ ท่ี 1 (logic): ใหเ้ ขียน function ด้วย node.js หรือ typescript ที่รับ parameter เป็น array of integer และ return เลขท่ปี รากฏใน array บ่อยครง้ั ท่ีสุด พร้อมกับจํานวนคร้ังที่พบ
 ตัวอย่าง
 Input : [6, -1, 6, 3, 3, 6, 5, 6, 6, 7] Return : {result: 6, count:5}
